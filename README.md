@@ -3,7 +3,7 @@ Webserver based on simpleportal (nodejs + connectjs + mongodb)
 
 ## Installation
 
-Make sure you have an updated nodejs and latest mongo db installed webserver can be started
+Make sure you have an updated nodejs and latest mongo db installed
 
 # Install using npm
 
