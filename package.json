@@ -1,5 +1,5 @@
 {
-  "name": "Simpleportaljs webserver",
+  "name": "simpleportal-webserver",
   "keywords": ["simpleportaljs", "Simpleportal", "nodejs", "webserver"],
   "description": "Node server based on simpleportal",
   "version": "1.0.0",
@@ -11,5 +11,9 @@
   "dependencies" : { 
   		"simpleportal": ""
   },
-  "licenses": [ { "type": "Properatory" } ]
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/faisalk08/simpleportal-webserver.git"
+  },
+  "licenses": [ { "type": "MIT" } ]
 }
